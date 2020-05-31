@@ -16,19 +16,22 @@ NASA astronauts are very familiar with the importance of indoor air quality in t
 
 Your challenge is to use the ISS as an inspiration and develop a system to monitor and / or purify the indoor air. It is up to you to decide whether the system you design can be used on Earth (for example, in homes, businesses, transportation, etc.) and / or in space.
 
- ## 2. Project summary
+ ## 2. Project 
 
-Our challenge calls for a solution for the purification or monitoring of indoor air in closed environments, which can be used both for the community and for space travel. The proposed solution was to enhance the air filtration already performed by the LSS system (Life Supporting System) of the spacecraft through pigmented ink based on biocidal copper in the air pipes in order to eliminate microorganisms and embed sensors in the filter to detect changes in the air (humidity, CO2 index, and CO) and foreign organisms, thus avoiding contagion and infections in space travel and artificially ventilated terrestrial environments.
+We are the ApoloCoders team and we have developed an intelligent solution for monitoring air quality.
+Using the technology already existing in the air filtration of the Life Support System of spacecraft, we propose the use of copper alloys with biocidal action in the air ventilation of the ship together with the use of intelligent sensors that performed the air monitoring in real time ensuring the preservation of the environment against possibly lethal organisms, good air quality, humidity and atmospheric pressure.
 
 ## 3. App
 
 The app was developed in the javascripts programming language and using the React Native framework.
-Prototype: 
+Prototype:
 <div>
-    <img src="./assets/app.png" width="200">
+    <img src="./assets/prototype.png" width="600">
 </div>
-
 App:
+<div>
+    <img src="./assets/app.png" width="600">
+</div>
 
 
 to access the app: 
@@ -36,4 +39,5 @@ to access the app:
    * Install the dependencies with the command in the `npm install` terminal.
    * To check your application, do a `npm start` in the terminal and it will show the url to access your web server` http: // localhost: 5000`.
 
-
+collaborators:    
+Mariana Barros - www.linkedin.com/in/marianambarros
