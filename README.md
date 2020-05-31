@@ -19,11 +19,15 @@ Your challenge is to use the ISS as an inspiration and develop a system to monit
  ## 2. Project 
 
 We are the ApoloCoders team and we have developed an intelligent solution for monitoring air quality.
-Using the technology already existing in the air filtration of the Life Support System of spacecraft, we propose the use of copper alloys with biocidal action in the air ventilation of the ship together with the use of intelligent sensors that performed the air monitoring in real time ensuring the preservation of the environment against possibly lethal organisms, good air quality, humidity and atmospheric pressure.
+Using the technology already existing in the air filtration of the Life Support System of spacecraft, we propose the use of copper alloys with biocidal action in the air ventilation of the ship together with the use of intelligent sensors that performed the air monitoring in real time ensuring the preservation of the environment against possibly lethal organisms, good air quality, humidity and atmospheric pressure.                                               
+ 
+<div>
+    <p>access to pitch:</p><a href="./docs/pitch.pdf">PITCH</a>
+</div>
 
 ## 3. App
 
-The app was developed in the javascripts programming language and using the React Native framework.
+The app was developed in the javascripts programming language and using the React Native framework.   
 Prototype:
 <div>
     <img src="./assets/prototype.png" width="600">
@@ -40,4 +44,9 @@ to access the app:
    * To check your application, do a `npm start` in the terminal and it will show the url to access your web server` http: // localhost: 5000`.
 
 collaborators:    
-Mariana Barros - www.linkedin.com/in/marianambarros
+Carlos Oliveira - Back-End Development - https://www.linkedin.com/in/carlos-filho-92401718/ 
+Carlos Vitor - Back-End Development -https://www.facebook.com/carlosvitor.limadeoliveira   
+Bruna Lima - Business -          
+Mariana Barros - Front-End Development - www.linkedin.com/in/marianambarros      
+Vitoria Regina - Designer - https://www.linkedin.com/in/vitoriaregina/
+
