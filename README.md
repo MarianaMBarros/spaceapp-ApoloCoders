@@ -32,16 +32,21 @@ Prototype:
 <div>
     <img src="./assets/prototype.png" width="600">
 </div>
+
 App:
 <div>
     <img src="./assets/app.png" width="600">
-</div>
+</div>       
 
+<a href="https://expo.io/artifacts/2345f99c-28bf-407d-962a-0be61a3d69f1">Download App</a>
 
-to access the app: 
+to access the app:  
    * To access the project do a fork or a clone.
    * Install the dependencies with the command in the `npm install` terminal.
    * To check your application, do a `npm start` in the terminal and it will show the url to access your web server` http: // localhost: 5000`.
+
+
+
 
 collaborators:    
 Carlos Oliveira - Back-End Development - https://www.linkedin.com/in/carlos-filho-92401718/ 
