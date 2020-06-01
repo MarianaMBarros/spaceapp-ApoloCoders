@@ -46,7 +46,7 @@ to access the app:
 collaborators:    
 Carlos Oliveira - Back-End Development - https://www.linkedin.com/in/carlos-filho-92401718/ 
 Carlos Vitor - Back-End Development -https://www.facebook.com/carlosvitor.limadeoliveira   
-Bruna Lima - Business -          
+Bruna Lima - Business -  https://m.facebook.com/Brunasantos15?ref=bookmarks        
 Mariana Barros - Front-End Development - www.linkedin.com/in/marianambarros      
 Vitoria Regina - Designer - https://www.linkedin.com/in/vitoriaregina/
 
